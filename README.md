@@ -1,3 +1,3 @@
 # Programas-Preparatoria
-Algunos programas desarrollados en Visual Basic.
-Contiene carpetas de cada programa.
+Algunas de las practicas escolares desarrolladas en Visual Basic.
+Contiene carpetas de cada practica.
